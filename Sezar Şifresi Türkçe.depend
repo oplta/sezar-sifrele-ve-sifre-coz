@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732350181 source:c:\users\oplta\desktop\c dersleri\output\sezar Þifresi türkçe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
