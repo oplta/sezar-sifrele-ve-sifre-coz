@@ -1,3 +1,4 @@
+// by oplta
 #include <stdio.h>   // 📚 Giriş ve çıkış işlemleri için gerekli kütüphane
 #include <stdlib.h>  // ⚙️ Genel amaçlı yardımcı fonksiyonlar için gerekli kütüphane
 #include <locale.h>  // 🇹🇷 Türkçe karakterler için gerekli kütüphane
